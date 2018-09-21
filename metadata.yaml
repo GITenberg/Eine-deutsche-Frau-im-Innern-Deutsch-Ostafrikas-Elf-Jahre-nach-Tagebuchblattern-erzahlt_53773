@@ -1,0 +1,28 @@
+_repo: Eine-deutsche-Frau-im-Innern-Deutsch-Ostafrikas-Elf-Jahre-nach-Tagebuchblattern-erzahlt_53773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prince, Magdalene
+    alias: Prince, Magdalene von
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '47529'
+    url: http://www.gutenberg.org/2009/agents/47529
+description: ''
+gutenberg_issued: '2016-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53773'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germans -- Tanzania'
+- !lcsh 'Tanzania -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Eine deutsche Frau im Innern Deutsch-Ostafrikas
+
+  Elf Jahre nach Tagebuchblättern erzählt'
+url: http://www.gutenberg.org/ebooks/53773
